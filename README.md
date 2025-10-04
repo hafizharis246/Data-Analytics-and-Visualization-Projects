@@ -25,15 +25,15 @@ This repository serves as a central hub where you can explore my projects with t
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Data Analytics:** Excel, Python (Pandas)  
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Other Tools:** GitHub Projects for tracking  
 
 ---
 
-## 📌 Note
+## Note
 This repo only contains **project overviews and links**. Visit each project repository for full code, datasets, and detailed documentation.  
 
 ---
-👨‍💻 *Maintained by [Hafiz Haris Mehmood](https://github.com/hafizharis246)*
+*Maintained by [Hafiz Haris Mehmood](https://github.com/hafizharis246)*
