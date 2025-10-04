@@ -19,7 +19,7 @@ This repository serves as a central hub where you can explore my projects with t
 
 ---
 
-### 3. [Bank Loan Analysis Project]
+### 3. Bank Loan Analysis Project
 - **Description:** This project analyzes a bank's loan data to uncover trends, performance metrics, and risk factors. The analysis is visualized through interactive Excel dashboards and is powered by SQL queries for data aggregation and transformation.  
 - **Link:** [Bank Loan Analysis Project Repository](https://github.com/hafizharis246/Bank_Loan_Analysis_Project)
 
